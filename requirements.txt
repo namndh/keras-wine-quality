@@ -19,8 +19,10 @@ pyparsing==2.2.0
 python-dateutil==2.7.2
 pytz==2018.3
 PyYAML==3.12
+scikit-learn==0.19.1
 scipy==1.0.1
 six==1.11.0
+sklearn==0.0
 sympy==1.1.1
 tensorboard==1.7.0
 tensorflow-gpu==1.4.1
